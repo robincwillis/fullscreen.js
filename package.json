@@ -1,0 +1,11 @@
+{
+  "name": "fullscreen.js",
+  "version": "0.0.1",
+  "description": "Simple script to provide a UI for making pages fullscreen",
+  "main": "fullscreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Willis",
+  "license": "ISC"
+}
